@@ -5,7 +5,7 @@ This web application will help you plan your daily tasks with ease. You can type
 
 ## Application
 
-Link to website:
+Link to website: https://tthient.github.io/Mod_5_DailyPlanner/
 
 ## Usage
 
