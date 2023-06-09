@@ -9,7 +9,8 @@ Link to website: https://tthient.github.io/Mod_5_DailyPlanner/
 
 ## Usage
 
-![alt text](Asset\img\Planner.png)
+![Planner](https://github.com/TThienT/Mod_5_DailyPlanner/assets/125310070/db4f665a-300d-4be4-b5e6-8781017515f0)
+
 
 
 ## Credits
